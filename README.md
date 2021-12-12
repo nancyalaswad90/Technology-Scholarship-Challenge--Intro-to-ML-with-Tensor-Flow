@@ -1,7 +1,7 @@
 .
 
 
-> # Technology Scholarship program Challenge  -   Intro to ML with Tensor Flow 
+> # Technology Scholarship program Challenge // Intro to ML with Tensor Flow 
 
 
 .
